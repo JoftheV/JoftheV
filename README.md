@@ -16,7 +16,7 @@ What Drives Me
 
 Stay Connected
 
-I’d love for you to join me on my journey. Check out my website, (A Journey Beyond the Veils)[https://ajourneybeyondtheveils.com], where I share more about my adventures, projects, and thoughts. Let’s connect and explore the world together!
+I’d love for you to join me on my journey. Check out my website, [A Journey Beyond the Veils](https://ajourneybeyondtheveils.com), where I share more about my adventures, projects, and thoughts. Let’s connect and explore the world together!
 <!---
 JoftheV/JoftheV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
