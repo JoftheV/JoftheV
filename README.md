@@ -21,3 +21,6 @@ I’d love for you to join me on my journey. Check out my website, [A Journey Be
 JoftheV/JoftheV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+#automate changes to all repositories and configure API documentation and fix syntax code scripts. 
