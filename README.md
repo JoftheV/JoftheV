@@ -23,4 +23,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-#automate changes to all repositories and configure API documentation and fix syntax code scripts. 
+#automate changes to all repositories and #configure API documentation and fix syntax code #scripts. 
