@@ -22,5 +22,7 @@ JoftheV/JoftheV is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-
-markdown ##automate changes to all repositories and ##configure API documentation and fix syntax code ##scripts. 
+<!---
+markdown 
+#automate changes to all repositories and #configure API documentation and fix syntax code #scripts. 
+--->
